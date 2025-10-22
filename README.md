@@ -1,9 +1,9 @@
 # Task-1
  A Simple Responsive Landing Page Using HTML &amp; CSS
  
- Objective: Build a clean, responsive landing page with a header, hero section, and footer.
- Tools: VS Code (free), Chrome Browser, live-server extension.
- Deliverables:  HTML and CSS files rendering a responsive landing page
+ Objective : Build a clean, responsive landing page with a header, hero section, and footer.
+ Tools Used : VS Code (free), Chrome Browser, live-server extension.
+ Deliverables :  HTML and CSS files rendering a responsive landing page
 
  1.Created an index.html and style.css.
  
